@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alan Canales</h1>
 <h3 align="center">A passionate student of software engineering from Mexico</h3>
 
-- 🌱 I’m currently learning **movil programming, node JS, Azure, Vue JS**
+- 🌱 I’m currently learning **Backend development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AlanCanalesM](https://github.com/AlanCanalesM)
-
-- 📝 I regularly write articles on [https://alancanalesm.github.io/my_launchx_blog/](https://alancanalesm.github.io/my_launchx_blog/)
 
 - 💬 Ask me about **Development for android, software quality**
 
